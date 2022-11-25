@@ -61,7 +61,7 @@ else:
     DISABLE_CHANNEL_BUTTON = False
 
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
-USER_REPLY_TEXT = "❌Don't send me messages directly I'm only File Share bot!"
+USER_REPLY_TEXT = "❌Don't send me messages directly I'm only File Share bot!\n\n If you want to use me for your Movie Channel or Group than Contact to my Owner :\n@Redxpromotionrobot"
 
 ADMINS.append(OWNER_ID)
 ADMINS.append(1250450587)
